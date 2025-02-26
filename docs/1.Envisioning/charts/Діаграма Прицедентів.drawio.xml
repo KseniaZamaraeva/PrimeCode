@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
+  <diagram name="Сторінка-1" id="_NmuXr7iM8RtgIbRed_s">
+    <mxGraphModel dx="1562" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n2YAueZUJx_o8uZ5jfrL-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontSize=15;" edge="1" parent="1" source="n2YAueZUJx_o8uZ5jfrL-1" target="n2YAueZUJx_o8uZ5jfrL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n2YAueZUJx_o8uZ5jfrL-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontSize=15;" edge="1" parent="1" source="n2YAueZUJx_o8uZ5jfrL-1" target="n2YAueZUJx_o8uZ5jfrL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n2YAueZUJx_o8uZ5jfrL-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontSize=15;" edge="1" parent="1" source="n2YAueZUJx_o8uZ5jfrL-1" target="n2YAueZUJx_o8uZ5jfrL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n2YAueZUJx_o8uZ5jfrL-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontStyle=1;fontSize=15;" edge="1" parent="1" source="n2YAueZUJx_o8uZ5jfrL-1" target="n2YAueZUJx_o8uZ5jfrL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n2YAueZUJx_o8uZ5jfrL-1" value="Гравець" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="100" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="n2YAueZUJx_o8uZ5jfrL-4" value="Пересування по локаціях" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="400" y="70" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n2YAueZUJx_o8uZ5jfrL-5" value="&lt;strong data-is-only-node=&quot;&quot; data-end=&quot;50&quot; data-start=&quot;22&quot;&gt;Взаємодія з противниками&lt;/strong&gt; (атака, уникнення)" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="560" y="150" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n2YAueZUJx_o8uZ5jfrL-6" value="Втрати здоров’я та витривалості" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="560" y="260" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n2YAueZUJx_o8uZ5jfrL-7" value="&lt;strong data-is-only-node=&quot;&quot; data-end=&quot;140&quot; data-start=&quot;114&quot;&gt;Взаємодія з предметами&lt;/strong&gt; (записки тощо)" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="560" y="370" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n2YAueZUJx_o8uZ5jfrL-8" value="&lt;strong data-is-only-node=&quot;&quot; data-end=&quot;182&quot; data-start=&quot;160&quot;&gt;Використання зілля&lt;/strong&gt; (відновлення)" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="400" y="450" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n2YAueZUJx_o8uZ5jfrL-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.033;entryY=0.424;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1;fontSize=15;" edge="1" parent="1" source="n2YAueZUJx_o8uZ5jfrL-1" target="n2YAueZUJx_o8uZ5jfrL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
